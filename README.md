@@ -16,7 +16,7 @@ chemical structures, structural alteration during food processing, interaction w
 substrates is involved." [1]
 
 
-Reference:
+Textual cite from:
 [1]Detection of Pesticide Residues in Food Using Surface-Enhanced
 Raman Spectroscopy Meng-Lei Xu, Yu Gao, Xiao Xia Han, and Bing Zhao
 State Key Laboratory of Supramolecular Structure and Materials, Jilin University, Changchun 130012, PR China
